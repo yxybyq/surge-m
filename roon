@@ -1,0 +1,8 @@
+IP-CIDR,172.18.0.1/16,no-resolve
+IP-CIDR,98.255.255.255/16,no-resolve
+IP-CIDR,192.168.31.100/16,no-resolve
+IP-CIDR,172.17.0.1/16,no-resolve
+IP-CIDR,192.168.111.1/16,no-resolve
+IP-CIDR,192.169.50.182/16,no-resolve
+DOMAIN-SUFFIX,roonlabs.net
+DOMAIN-SUFFIX,roonlabs.com
